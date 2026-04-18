@@ -1,0 +1,195 @@
+{
+  "profile": {
+    "name": "ARTA",
+    "role": "Arta",
+    "location": "Sikur, Lombok, Indonesia",
+    "rating": "5.0",
+    "description": "Arta adalah seorang pengembang full-stack yang fokus pada antarmuka kreatif dan bersih. Dia mencintai desain Minimalis dan Hitam Putih. Keahlian utamanya adalah membangun aplikasi web berperforma tinggi dengan React dan Node.js. Dia memiliki pengalaman 5 tahun bekerja di berbagai agensi kreatif.",
+    "about": {
+      "title": "The Story",
+      "p1": "Saya adalah seorang Front-End Developer yang bersemangat dengan minat mendalam pada Desain UI. Perjalanan saya dimulai dari rasa ingin tahu tentang bagaimana internet bekerja, yang kemudian berkembang menjadi karier dalam menciptakan pengalaman digital yang indah dan fungsional.",
+      "p2": "Selama beberapa tahun terakhir, saya mendapat kesempatan istimewa untuk bekerja dengan berbagai klien, mulai dari startup hingga agensi ternama. Saya percaya bahwa desain yang dipikirkan matang dan kode yang bersih adalah kunci untuk menciptakan produk yang disukai pengguna.",
+      "image": "https://files.catbox.moe/gxtmti.jpeg"
+    },
+    "stats": [
+      {
+        "label": "Projects",
+        "value": "5+"
+      },
+      {
+        "label": "Experience",
+        "value": "5th"
+      }
+    ],
+    "social": [
+      {
+        "name": "WhatsApp",
+        "url": "#"
+      },
+      {
+        "name": "GitHub",
+        "url": "#"
+      },
+      {
+        "name": "Instagram",
+        "url": "#"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "ArtNime",
+      "category": "Web Streaming",
+      "description": "Platform streaming berbasis web yang menyediakan berbagai koleksi anime dengan sistem katalog dinamis dan tampilan modern.",
+      "tools": ["ReactJS", "Tailwind CSS", "Framer Motion", "Vite"],
+      "image": "https://files.catbox.moe/nlxv85.png",
+      "link": "https://anime.arthub.my.id/",
+      "githubLink": "#",
+      "features": [
+        "Menampilkan katalog anime secara dinamis.",
+        "Halaman detail anime dengan daftar episode.",
+        "Integrasi video player berbasis embed.",
+        "Navigasi cepat dan responsif."
+      ],
+      "stats": [
+        { "label": "Jenis Konten", "value": "Anime" },
+        { "label": "Fitur Utama", "value": "4" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "ArtWuxia",
+      "category": "Web Streaming",
+      "description": "Website streaming yang berfokus pada konten donghua (animasi China) dengan sistem navigasi dan katalog modern.",
+      "tools": ["ReactJS", "Tailwind CSS", "Framer Motion", "Vite"],
+      "image": "https://files.catbox.moe/8vw4kj.png",
+      "link": "https://donghua.arthub.my.id/",
+      "githubLink": "#",
+      "features": [
+        "Katalog donghua berbasis data dinamis.",
+        "Halaman detail dengan sistem episode.",
+        "Player video terintegrasi.",
+        "UI modern dan ringan."
+      ],
+      "stats": [
+        { "label": "Jenis Konten", "value": "Donghua" },
+        { "label": "Fitur Utama", "value": "4" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "ArtManhwa",
+      "category": "Web Platform",
+      "description": "Platform berbasis web untuk membaca komik, manhwa, dan manhua dengan tampilan yang responsif dan mudah digunakan.",
+      "tools": ["ReactJS", "Tailwind CSS", "Framer Motion", "Vite"],
+      "image": "https://files.catbox.moe/itknm9.png",
+      "link": "https://comic.arthub.my.id/",
+      "githubLink": "#",
+      "features": [
+        "Menampilkan daftar komik secara dinamis.",
+        "Halaman baca chapter dengan navigasi mudah.",
+        "Struktur konten terorganisir per chapter.",
+        "Desain responsif untuk berbagai device."
+      ],
+      "stats": [
+        { "label": "Jenis Konten", "value": "Comic" },
+        { "label": "Fitur Utama", "value": "4" }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": 95,
+      "category": "Core",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "name": "CSS",
+      "level": 90,
+      "category": "Core",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "level": 92,
+      "category": "Core",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": 98,
+      "category": "Frontend",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "name": "ReactJS",
+      "level": 95,
+      "category": "Frontend",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "name": "Vite",
+      "level": 90,
+      "category": "Frontend",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
+    },
+    {
+      "name": "Node JS",
+      "level": 85,
+      "category": "Backend",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "Firebase",
+      "level": 80,
+      "category": "Backend",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+    },
+    {
+      "name": "Vercel",
+      "level": 90,
+      "category": "Tools",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "1",
+      "title": "Belajar Dasar AI",
+      "issuer": "Dicoding",
+      "image": "https://files.catbox.moe/twiz27.png"
+    },
+    {
+      "id": "2",
+      "title": "Programming Logic 101",
+      "issuer": "Dicoding",
+      "image": "https://files.catbox.moe/twiz27.png"
+    },
+    {
+      "id": "3",
+      "title": "Software Engineering",
+      "issuer": "Dicoding",
+      "image": "https://files.catbox.moe/twiz27.png"
+    },
+    {
+      "id": "4",
+      "title": "Dasar Pemrograman Web",
+      "issuer": "Dicoding",
+      "image": "https://files.catbox.moe/twiz27.png"
+    },
+    {
+      "id": "5",
+      "title": "Front-End Web untuk Pemula",
+      "issuer": "Dicoding",
+      "image": "https://files.catbox.moe/twiz27.png"
+    },
+    {
+      "id": "6",
+      "title": "Aplikasi Web dengan React",
+      "issuer": "Dicoding",
+      "image": "https://files.catbox.moe/twiz27.png"
+    }
+  ]
+}

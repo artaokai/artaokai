@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* True Minimalist Palette */
+  --color-canvas-primary: #ffffff;
+  --color-canvas-secondary: #fbfbfb;
+  --color-ink-primary: #000000;
+  --color-ink-secondary: #555555;
+  --color-ink-tertiary: #a1a1a1;
+  --color-stroke: #eeeeee;
+}
+
+@layer base {
+  body {
+    @apply bg-canvas-primary text-ink-primary font-sans selection:bg-ink-primary selection:text-canvas-primary antialiased;
+    transition: background-color 0.4s ease, color 0.4s ease;
+  }
+
+  body.dark {
+    --color-canvas-primary: #0a0a0a;
+    --color-canvas-secondary: #121212;
+    --color-ink-primary: #ffffff;
+    --color-ink-secondary: #999999;
+    --color-ink-tertiary: #444444;
+    --color-stroke: #222222;
+  }
+
+  h1, h2, h3 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@utility glass-surface {
+  background: var(--color-canvas-primary);
+  border: 1px solid var(--color-stroke);
+}
+
+@utility refined-card {
+  @apply bg-canvas-primary border border-stroke rounded-xl overflow-hidden hover:border-ink-primary transition-colors duration-300;
+}
+
+@utility btn-primary {
+  @apply bg-ink-primary text-canvas-primary font-medium px-6 py-2.5 rounded-lg active:scale-95 transition-all inline-flex items-center gap-2;
+}
+
+@utility btn-secondary {
+  @apply bg-transparent border border-stroke text-ink-primary font-medium px-6 py-2.5 rounded-lg hover:border-ink-primary active:scale-95 transition-all inline-flex items-center gap-2;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-canvas-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-ink-tertiary);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ink-secondary);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
