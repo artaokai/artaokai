@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# <p align="center">🌌 Cosmic Developer Environment</p>
 
-# Run and deploy your AI Studio app
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=thicket&color=00c8ff&height=200&section=header&text=ART%20%7C%20DIAN%20S.&fontSize=80&animation=twinkling&fontAlignY=38" />
+</p>
 
-This contains everything you need to run your app locally.
+<p align="center">
+  <a href="https://github.com/artaokai">
+    <img src="https://img.shields.io/github/followers/artaokai?label=Followers&style=social" />
+  </a>
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Philosophy-Cosmic%20Minimalism-blue" />
+</p>
 
-View your app in AI Studio: https://ai.studio/apps/0bc59f9e-9c8a-4f84-a252-a8d9242982f6
+---
 
-## Run Locally
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=artaokai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artaokai&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+</p>
 
-**Prerequisites:**  Node.js
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artaokai&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/artaokai/artaokai/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+### 🌑 Transmission
+<p align="center">
+  <a href="mailto:tetebatuactivity@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/nomor-kamu">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Programming%20is%20the%20art%20of%20organizing%20complexity%20into%20a%20cosmic%20order." />
+</p>
