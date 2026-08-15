@@ -1,40 +1,51 @@
-### Halo, saya di sini! 👋
+# 👋 Halo, Saya Arta Okai!
 
-> Creator & Developer di balik **ArtHub Community**. Saya fokus membangun berbagai perangkat digital kreatif dan analitik, salah satunya adalah **ArtTools**.
-
----
-
-### 💡 About Me
-* 🌱 Aktif mengembangkan berbagai project web dan tools digital.
-* 🤖 Sebagian besar project dikembangkan dengan bantuan AI untuk eksplorasi teknologi cepat.
-* 🤝 Founder dari **ArtHub Community**, wadah kolaborasi untuk para kreator dan developer.
-* 📞 Hubungi via WhatsApp untuk kolaborasi: **[085142880488](https://wa.me/6285142880488)**
+> **Creator & Developer** — pendiri dari **ArtHub Community** dan pengembang utama di balik berbagai proyek digital, termasuk **ArtTools**, sebuah platform toolkit untuk kreator digital.
 
 ---
 
-### 🚀 Featured Project: ArtTools
-Sebuah platform toolkit modern untuk mengelola dan menganalisis aset digital.
-* **Live Demo:** [artatools.vercel.app](https://artatools.vercel.app)
-* **Status:** Aktif & Terus Berkembang
+## ✨ Tentang Saya
+
+- 🔭 Saat ini aktif mengembangkan **proyek web** dan **alat digital** untuk komunitas kreator.
+- 🤖 Saya memanfaatkan **AI** untuk mempercepat eksplorasi teknologi dan pengembangan produk.
+- 🧑‍‍💻 Pendiri **ArtHub Community** — ruang kolaborasi bagi kreator dan developer untuk bertukar ide dan membangun karya bersama.
+- 📬 Hubungi saya untuk kolaborasi atau diskusi melalui [WhatsApp](https://wa.me/6285142880488).
 
 ---
 
-### 🌐 ArtHub Community
-Komunitas tempat berkumpulnya para kreator dan pengembang untuk berbagi ide, bereksperimen dengan teknologi, dan membangun project kreatif bersama.
+## 🚀 Proyek Unggulan: ArtTools
+
+**ArtTools** adalah platform toolkit modern untuk mengelola dan menganalisis aset digital secara efisien.
+
+- 🌐 **Demo**: [artatools.vercel.app](https://artatools.vercel.app)  
+- 📌 **Status**: Aktif dikembangkan dan terus diperbarui.
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=artaokai&show_icons=true&theme=tokyonight&hide_border=true" />
+## 🌍 ArtHub Community
+
+Komunitas terbuka bagi siapa pun yang ingin belajar, bereksperimen, dan berkreasi dengan teknologi.  
+Tempat berkumpulnya para kreator, developer, dan inovator digital.
+
+---
+
+## 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=artaokai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artaokai&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artaokai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vercel" />
+## 🛠️ Teknologi & Alat yang Saya Gunakan
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vercel" alt="Tech Stack" />
 </p>
+
+---
+
+> *“Membangun dengan teknologi, berbagi dengan komunitas.”*
